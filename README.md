@@ -6,6 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://aarohisaxena2805.carrd.co/](https://aarohisaxena2805.carrd.co/)
 
 - 📫 How to reach me **aarohisaxena2805@gmail.com**
+- Ask me about **Machine Learning,C/C++, python,java, UI/UX,etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
